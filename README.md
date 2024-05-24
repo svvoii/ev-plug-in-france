@@ -2,6 +2,8 @@
 
 This project aims to analyze the distribution of electric vehicles and charging stations in France.  
 
+[link to the app](https://ev-plug-in-france.streamlit.app/)  
+
 Initial datasets are a part of Open Data University challange initiative. Challenge descroption as well as initial datasets as open source are available at [data.gouv.fr](https://defis.data.gouv.fr/defis/65a923a083cf5f728c9934b3/) as the part of the French government's open data initiative.  
 
 Resulting, clean datasets are in the `data` folder which are used for the analysis inthis app.  
