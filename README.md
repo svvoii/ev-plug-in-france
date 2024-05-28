@@ -58,7 +58,6 @@ So, the `map_dashboard.py` file contains several functions:
 `main()`: The main function where all the logic of the Streamlit app is implemented.  
 
 
-For more detailed information and updates, please visit the project's [GitHub repository](https://github.com/svvoii/map-dashboard).  
+For more detailed information about the project and how I did it, please visit this repository : [evs-charging-france-dashboard](https://github.com/svvoii/evs-charging-france-dashboard).  
 
-The project was finished on 25.05.2024  
-[svvoii](https://github.com/svvoii)
+This project was finished on 25.05.2024 by [svvoii](https://github.com/svvoii)
